@@ -12,7 +12,6 @@ Bipin</a></h1>
 
 - 🌱 I’m currently Working on Frontend
 
-- 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning React 
 
