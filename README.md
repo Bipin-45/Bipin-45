@@ -17,7 +17,3 @@ Bipin</a></h1>
 
 - 📫 How to reach me **pandeybipin364@gmail.com**>
   <br>
-  
-  ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@bipin11-11/30-nites-of-code)  
-  ![@bipin11-11 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bipin11-11)
